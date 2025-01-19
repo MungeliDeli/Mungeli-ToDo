@@ -28,18 +28,3 @@ A full-stack ToDo application built using **React**, **Spring Boot**, and **Mong
 
 ---
 
-## Prerequisites
-
-Before you begin, ensure you have the following installed on your system:
-- [Node.js](https://nodejs.org/) and npm
-- Java JDK (version 17 or higher)
-- [MongoDB](https://www.mongodb.com/try/download/community) (installed and running)
-
----
-
-## Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone <repository-url>
-cd <repository-folder>
